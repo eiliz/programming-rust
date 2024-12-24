@@ -1,0 +1,9 @@
+[submodule "mandelbrot"]
+	path = mandelbrot
+	url = ./mandelbrot
+[submodule "quickreplace"]
+	path = quickreplace
+	url = ./quickreplace
+[submodule "actix-gcd"]
+	path = actix-gcd
+	url = ./actix-gcd
